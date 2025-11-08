@@ -8,10 +8,10 @@ Built with **Flutter + SQLite + PDF + Material 3 UI**.
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID">
-    <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" width="250" alt="Watch Demo">
+  <a href="https://github.com/user-attachments/assets/bfdf6426-dbc0-44ca-85e8-e46977493f5a">
   </a>
 </p>
+
 
 > ▶️ Click the thumbnail above to watch the demo video.
 
