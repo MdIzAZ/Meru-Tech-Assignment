@@ -9,7 +9,7 @@ Built with **Flutter + SQLite + PDF + Material 3 UI**.
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/bfdf6426-dbc0-44ca-85e8-e46977493f5a">
-    <img src="https://github.com/user-attachments/assets/a3d8434d-31f5-4def-b2c6-89874d38d2dc" width="400" alt="App Preview Video">
+    <img src="https://github.com/user-attachments/assets/a3d8434d-31f5-4def-b2c6-89874d38d2dc" width="250" alt="App Preview Video">
   </a>
 </p>
 
