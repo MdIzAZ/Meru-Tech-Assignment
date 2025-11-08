@@ -8,7 +8,13 @@ Built with **Flutter + SQLite + PDF + Material 3 UI**.
 ## 🎥 Demo Video
 
 <p align="center">
-  https://github.com/user-attachments/assets/7d4bb80a-3153-4d20-928b-1ca58e466a57
+  <video src="https://github.com/user-attachments/assets/7d4bb80a-3153-4d20-928b-1ca58e466a57"
+         width="250"
+         autoplay
+         loop
+         muted
+         playsinline>
+  </video>
 </p>
 
 
